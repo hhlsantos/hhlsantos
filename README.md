@@ -13,6 +13,8 @@
 
 Bem-vindo(a) ao meu repositório! aqui estão alguns projetos pessoais, contribuições, estudos e muito mais. Utilizo minha experiência em JavaScript, TypeScript, React, Vue, HTML, CSS, etc, para aprimorar meus conhecimentos e me aventurar nas horas vagas!
 
+Sou formando no curso de Bacharelado em Ciência da Computação na Universidade Tecnológica federal do Parana no campus de Campo Mourão.
+
 Sinta-se à vontade para explorar o repositório e, se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Vamos aprender juntos e crescer na área de desenvolvimento!
 
 <div align="center"> 
@@ -55,4 +57,7 @@ https://readme-typing-svg.demolab.com/demo/
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhlsantos&theme=github_dark"/>
 </div> -->
 
+<br>
+
+###### Como me contatar: henriquehercules5@gmail.com
 </div>
