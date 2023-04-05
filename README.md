@@ -50,6 +50,7 @@ Sinta-se à vontade para explorar o repositório e, se tiver alguma dúvida ou s
 </div>
   
 <!-- <div>
+https://readme-typing-svg.demolab.com/demo/
 <a href="https://github.com/hhlsantos">
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhlsantos&theme=github_dark"/>
 </div> -->
